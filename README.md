@@ -1,6 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=evlinges;Frontend+%F0%9F%94%A5+Pixel+Crafter;Software+Engineering+Student+%F0%9F%8C%8D" alt="Typing SVG" />
 
----
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 
