@@ -48,14 +48,6 @@
 
 </div>
 
-<!-- ═══════════════════════  EXTRA ANIMATION: lofi loop  ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" alt="lofi"/>
-
-</div>
-
 <!-- ═══════════════════════  ANIMATED FOOTER WAVE  ═══════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8338ec,50:533483,100:1a1a2e&height=140&section=footer&animation=fadeIn" alt="footer"/>
